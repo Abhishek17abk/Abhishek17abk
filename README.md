@@ -1,9 +1,6 @@
 # abhishek-muralidharan
 # Hi there, I'm Abhishek Muralidharan 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abhishek-muralidharan)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:abhi17jan@gmail.com)
-
 ## 👨‍💻 About Me
 
 I'm a passionate journalist and editor with a strong background in the printing and packaging industry. Recently, I've expanded my skillset to include computational and data journalism, combining my love for storytelling with data-driven insights.
@@ -16,21 +13,11 @@ I'm a passionate journalist and editor with a strong background in the printing 
 
 ## 🛠️ Skills
 
-![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
 - Content Management Systems
 - Data Analysis and Visualization
 - SEO Optimization
 - Editorial Strategy
 - Project Management
-
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
 
 ## 🌟 Featured Projects
 
