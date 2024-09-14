@@ -28,7 +28,3 @@ I'm a passionate journalist and editor with a strong background in the printing 
 ## 📫 How to reach me
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/abhishek-muralidharan) or email me at abhi17jan@gmail.com.
-
----
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=YourGitHubUsername.YourGitHubUsername)
